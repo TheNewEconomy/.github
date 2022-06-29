@@ -1,4 +1,11 @@
-## Hi there 👋
+<p align="center">
+    <img src="https://i.imgur.com/eDlmaed.png" width="728" />
+</p>    
+<p align="center">    
+<i><b>The economy plugin for server owners that want more out of their economy.</b></i>
+</p>
+
+### Welcome
 
 <!--
 
